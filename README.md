@@ -15,3 +15,7 @@
 
 - `git diff`: shows you current state with last known state differences
 - `git diff --staged`: shows difference from staging area with last known
+
+-`git remote add origin <URL or SSH>` adds <URL/SSH> with the name origin
+-`git push origin master`: pushes the master branch to the origin remote
+-`git pull origin master`"
