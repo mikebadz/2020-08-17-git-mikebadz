@@ -12,3 +12,6 @@
 - `git log`: shows you your history
 	`git log --oneline`: shows you your 1-line history
 -`HEAD`: tells you where you are looking 
+
+- `git diff`: shows you current state with last known state differences
+- `git diff --staged`: shows difference from staging area with last known
