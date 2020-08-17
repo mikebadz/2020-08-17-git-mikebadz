@@ -1,5 +1,7 @@
 # 2020-08-17-git-mikebadz
 
+## Local
+
 - `git status`: tells you what is going on in your repository
 - `git add <FILE>`: places <FILE> into the staging area
 	- `git add README.md`
@@ -16,6 +18,7 @@
 - `git diff`: shows you current state with last known state differences
 - `git diff --staged`: shows difference from staging area with last known
 
+## REMOTES
 -`git remote add origin <URL or SSH>` adds <URL/SSH> with the name origin
 -`git push origin master`: pushes the master branch to the origin remote
 -`git pull origin master`"
