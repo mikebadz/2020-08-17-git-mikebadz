@@ -20,3 +20,6 @@
 -`git remote add origin <URL>` adds <URL> with the name origin
 -`git push origin master`: pushes the master branch to the origin remote
 -`git pull origin master`"
+
+
+- It is so a planet
