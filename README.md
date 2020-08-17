@@ -7,3 +7,8 @@
 	-if you opened this in VI(M): <ESC> `:q!`
 	-git config --global.core editor
 
+- did not make initial README correct
+
+- `git log`: shows you your history
+	`git log --oneline`: shows you your 1-line history
+-`HEAD`: tells you where you are looking 
